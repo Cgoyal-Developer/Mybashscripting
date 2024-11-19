@@ -1,3 +1,1 @@
 I am making Basic Bash Scripting
-
-i am pankaj
